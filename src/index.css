@@ -13,3 +13,19 @@
   width: 100vw;
   height: 100vh;
 }
+
+#map-view {
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.hidden {
+  display: none;
+}
+
+.active-light {
+  color: lightslategray;
+}
